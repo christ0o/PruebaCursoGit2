@@ -7,4 +7,13 @@ linea 6
 linea 7
 linea 8
 linea 9 modificada
+<<<<<<< HEAD
 linea 10
+=======
+linea 10
+
+
+
+linea 14 modificada
+linea 15
+>>>>>>> 9bb9b47 (commit para ver cherry.pick 3)
